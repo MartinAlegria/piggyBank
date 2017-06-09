@@ -1,0 +1,23 @@
+LINE 1 -> INIT APP ---> true/false ---> 0/1
+LINE 2 -> USER NAME
+LINE 3 -> AMOUNT OF MONEY SAVED
+LINE 4 - 14 -> GOAL NAMES
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LINE 14 - 23 -> GOAL MONEY
+-
+-
+-
+-
+-
+-
+-
+-
+-
