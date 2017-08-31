@@ -1,2 +1,2 @@
 # piggyBank
-PiggyBank program #1
+PiggyBank program.
